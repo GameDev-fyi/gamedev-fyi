@@ -1,0 +1,4 @@
+baseURL = "https://gamedev.fyi"
+languageCode = "en-us"
+title = "GameDev FYI"
+theme = "gamedev-fyi-theme"
