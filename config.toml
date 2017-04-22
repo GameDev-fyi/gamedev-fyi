@@ -2,7 +2,7 @@ baseURL = "https://.gamedev.fyi/"
 languageCode = "en-us"
 title = "GameDev FYI"
 theme = "gamedev-fyi-theme"
-googleAnalytics = "UA-60001962-10"
+googleAnalytics = "UA-60001962-9"
 
 
 [Params]
